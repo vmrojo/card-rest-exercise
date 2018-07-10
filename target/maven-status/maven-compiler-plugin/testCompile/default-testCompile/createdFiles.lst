@@ -1,9 +1,0 @@
-com\snou\firstdata\service\payment\validation\CardValidatorTest.class
-com\snou\firstdata\service\payment\model\YearMonthBasedOperationRateTest.class
-com\snou\firstdata\service\payment\validation\CardNumberValidatorTest.class
-com\snou\firstdata\service\payment\validation\OperationValidatorTest.class
-com\snou\firstdata\service\payment\model\CardInfoTest.class
-com\snou\firstdata\service\payment\validation\CardHolderValidatorTest.class
-com\snou\firstdata\service\payment\model\MonthBasedOperationRateTest.class
-com\snou\firstdata\service\payment\model\DayOfMonthBasedOperationRateTest.class
-com\snou\firstdata\service\payment\validation\CardExpDateValidatorTest.class
